@@ -1,20 +1,32 @@
 # project-chakra
 
-# Jarvis Sign Language & Gesture Recognition
+# Jarvis AI Assistant for Deaf and Mute People
 
-A comprehensive AI-powered system for real-time sign language and gesture recognition designed to assist deaf and hard-of-hearing individuals.
+## Overview
 
-## Features
+This project is a Python-based AI assistant designed for deaf and mute people.
 
-- **Real-time Sign Language Recognition**: Detects and classifies American Sign Language (ASL) and Indian Sign Language (ISL)
-- **Gesture Recognition**: Multi-hand gesture detection and classification
-- **Feature Classification**: Advanced ML-based feature extraction and classification
-- **Live Camera Feed Processing**: Real-time video processing from webcam
-- **Text-to-Speech Integration**: Converts recognized signs to spoken words
-- **Web Interface**: User-friendly web dashboard
-- **Desktop GUI**: Standalone desktop application
-- **Model Training Pipeline**: Train custom models with your own dataset
-- **Database Integration**: Store and manage sign language vocabulary
-- **REST API**: Easy integration with external applications
+Features include:
+- Speech to text
+- Text to speech
+- Sign language detection
+- Emergency alerts
+- AI chatbot
 
-## Project Structure
+---
+
+## Technologies Used
+
+- Python
+- OpenCV
+- MediaPipe
+- TensorFlow
+- SpeechRecognition
+- Tkinter
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
