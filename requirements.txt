@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+speechrecognition
+pyttsx3
+pyaudio
+tensorflow
+numpy
+pillow
